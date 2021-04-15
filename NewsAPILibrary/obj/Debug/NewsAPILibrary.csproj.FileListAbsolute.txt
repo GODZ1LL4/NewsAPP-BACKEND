@@ -1,0 +1,9 @@
+C:\Users\theov\source\repos\NewsAPI\NewsAPILibrary\bin\Debug\NewsAPILibrary.dll
+C:\Users\theov\source\repos\NewsAPI\NewsAPILibrary\bin\Debug\NewsAPILibrary.pdb
+C:\Users\theov\source\repos\NewsAPI\NewsAPILibrary\bin\Debug\Dapper.dll
+C:\Users\theov\source\repos\NewsAPI\NewsAPILibrary\bin\Debug\Dapper.xml
+C:\Users\theov\source\repos\NewsAPI\NewsAPILibrary\obj\Debug\NewsAPILibrary.csprojAssemblyReference.cache
+C:\Users\theov\source\repos\NewsAPI\NewsAPILibrary\obj\Debug\NewsAPILibrary.csproj.CoreCompileInputs.cache
+C:\Users\theov\source\repos\NewsAPI\NewsAPILibrary\obj\Debug\NewsAPILibrary.csproj.CopyComplete
+C:\Users\theov\source\repos\NewsAPI\NewsAPILibrary\obj\Debug\NewsAPILibrary.dll
+C:\Users\theov\source\repos\NewsAPI\NewsAPILibrary\obj\Debug\NewsAPILibrary.pdb
